@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'custom-name';
+}
+body{
+    margin: 0;
+    
+
+
+}
+.photo1{
+    background-image: url(phone-2a-plus-desktop_1292x.webp);
+    height: 100vh;
+
+}
+.content h1{
+    padding-top: 16.25rem;
+    font-size: 64px;
+    font-weight: bold;
+    letter-spacing: .36;
+    font-family: 'custom-name,Ntype82-Regular.otf';
+    
+}
+.navbar-nav{
+    font-size: 1.25rem;
+    margin-left: 100px;
+   
+}
+.navbar-nav li{
+    padding-left: 20px;
+
+    
+}
+.navbar-brand{
+    margin-left: 100px;
+   
+    font-size: 1.25rem;
+    font-family: 'custom-name,Ntype82-Regular.otf';
+}
+.content p,a{
+    font-family: 'custom-name,LetteraMonoLL-Regular.otf';
+    font-size: 1.125rem;
+  
+}
+
+@font-face {
+    font-family: 'custom-name';
+    src: url(fonts/LetteraMonoLL-Regular.otf),
+    url(fonts/Ndot-55.otf),
+    url(fonts/NType82-Headline.otf),
+    url(fonts/NType82-Regular.otf);  
+}
+#button1{
+    color: #fff;
+    background-color: #002F6C;
+    width: 56rem;
+    padding: 1rem 10.25rem;
+    font-size: 1.125rem;
+    max-width: calc(100% + 10px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photo2{
+    background-image: url(Homepage_-_Desktop_-_1560x2040_801a445f-c46b-472c-8c85-0f69c6401306_1292x.webp);
+    height: 100vh;
+}
+.photo3{
+    background-image: url(homepage-desktop_1_1292x.webp);
+    height: 100vh;
+}
+.photo3{
+    background-image: url(homepage-desktop_1_1292x.webp);
+    height: 100vh;
+}
+.photo4{
+    background-image: url(img4.webp);
+    height: 100vh;
+}
+.photo5{
+    background-image: url(img5.webp);
+    height: 100vh;
+}
+
+.photo6{
+    background-image: url(img6.webp);
+    height: 100vh;
+}
+
+.photo7{
+    background-image: url(img7.webp);
+    height: 100vh;
+}
+
+.photo8{
+    background-image: url(img8.webp);
+    height: 100vh;
+}
+
+.photo9{
+    background-image: url(img9.webp);
+    height: 100vh;
+}
+.lastrow h1{
+    padding-top: 100px;
+font-size: 2.5rem;
+font-weight: bold;
+letter-spacing: .36;
+font-family: 'custom-name,Ntype82-Regular.otf';
+}
+
+.lastrow p{
+    font-family: 'custom-name,LetteraMonoLL-Regular.otf';
+    font-size: 1.7rem;
+    }
+.footer1{
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-bottom: 150px;
+
+}
+.footer1 a{
+    color: white;
+    text-decoration: none;
+}
+#signup{
+    background: transparent;
+    border: 2px solid gray; 
+    border-radius: 15px;
+    height: 3.75rem;
+    padding: .875rem;
+    margin-top: 1.75rem;
+    padding-right: 3.25rem;
+    width: 500px;
+ padding-right: 5rem;
+}
+.footer-2{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-left: 150px;
+    border-top: 2px solid gray;
+    padding-bottom: 50px;
+    padding-right: 100px;
+}
+
+.footer-2 a{
+    color: white;
+    text-decoration: none;
+    padding-right: 30px;
+}
+.footer-2 h6{
+    margin-right: 20px;
+    float: right;
+ }
